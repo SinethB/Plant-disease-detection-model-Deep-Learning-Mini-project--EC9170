@@ -16,7 +16,7 @@ This project involves building a model that uses RGB photos to forecast illnesse
 
 ## Contributors
 
-- **2020/E/022**: Anuja Bandara.
+- **2020/E/020**: Anuja Bandara.
 - **2020/E/028**: Ruwan Pradeep.
 - **2020/E/090**: Kishara Manilka.
 
